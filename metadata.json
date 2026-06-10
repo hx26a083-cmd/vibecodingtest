@@ -1,0 +1,6 @@
+{
+  "name": "魔王と勇者の弾幕ゲーム",
+  "description": "魔王と勇者をモチーフにした本格的な弾幕シューティングゲーム。3つの難易度、スコアランキング、ステージボス戦を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
